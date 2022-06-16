@@ -18,3 +18,4 @@
 9.  class_09:正则化
 10. class_10:梯度下降、SGD
 11. class_11:CNN
+12. class_12:经典神经网络
